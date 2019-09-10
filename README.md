@@ -1,5 +1,5 @@
 # YCEasy
-# 魔法钱包
+# 魔法现金
 
 This Agreement is a contract between you (users, including natural persons and legal persons) and Wenzhou Yi Cheng Network Technology Co., Ltd. concerning the registration and service of the website. It is applicable to all the acts of registering and using the services of these platforms on the YCEasy platform. ;
 
